@@ -1,0 +1,27 @@
+body {
+
+    background-image: url(razerfondo.gif);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    }
+
+    #cabecera{
+        color:Green,blue;
+        /*border: solid;*/
+        margin-top:10px;
+        margin-left:100px;
+        margin-right:100px;
+        margin-bottom:0px;
+        padding: 20px;
+        background-color:#2ECCFA;
+        box-shadow: rgb(7,6,11) 5px 5px 25px;
+        border-radius:50px;
+        background: -webkit-linear-gradient(top,
+        #ff0000, #ff7edd,#ffffff,#a30088,#7b8cfe);
+        /*outline: 2px dashed #000; parte del codigo 
+        que nos sirve para hacer lineas puntiadas
+        estilo "recortes"outline-offset:15px;*/
+        }
